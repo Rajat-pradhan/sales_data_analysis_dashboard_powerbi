@@ -6,18 +6,25 @@
 ---
 
 # 📑 Table of Contents
+- [Dashboard Preview](#dashboard-preview)
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
 - [Dashboard Features](#dashboard-features)
-- [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
 - [Project Structure](#project-structure)
 - [How to Use](#how-to-use)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 
+---
+
+# Dashboard Preview
+
+![Dashboard](dashboard_preview/exec_dashboard.png)
+
+---
 ---
 
 # Project Overview
@@ -71,13 +78,7 @@ The dashboard includes:
 
 Users can filter by **region, category, and time period**.
 
----
 
-# Dashboard Preview
-
-![Dashboard](dashboard_preview/exec_dashboard.png)
-
----
 
 # Key Insights
 - Some regions contribute significantly more revenue.
