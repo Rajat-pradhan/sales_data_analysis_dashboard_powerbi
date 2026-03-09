@@ -75,7 +75,7 @@ Users can filter by **region, category, and time period**.
 
 # Dashboard Preview
 
-![Dashboard](C:\Users\Lenovo\OneDrive\Pictures\Screenshots\exec)
+![Dashboard](dashboard_preview/exec_dashboard.png)
 
 ---
 
