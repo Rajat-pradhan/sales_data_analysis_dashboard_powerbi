@@ -25,7 +25,6 @@
 ![Dashboard](dashboard_preview/exec_dashboard.png)
 
 ---
----
 
 # Project Overview
 This project presents an **interactive Power BI dashboard** designed to analyze sales performance across different regions and product categories.
