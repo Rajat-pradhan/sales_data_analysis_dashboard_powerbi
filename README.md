@@ -88,21 +88,28 @@ Users can filter by **region, category, and time period**.
 ---
 
 # Project Structure
-
-```
-sales-dashboard-project
+sales-analysis-project
 │
-├── data
-│   └── sales_data.csv
+├── 01-data
+│   ├── lookups
+│   │   ├── customer_lookup.csv
+│   │   ├── calendar_lookup.csv
+│   │   ├── product_lookup.csv
+│   │   ├── product_category_lookup.csv
+│   │   ├── product_subcategory_lookup.csv
+│   │   └── territory_lookup.csv
+│   │
+│   ├── facts
+│   │   ├── sales_data.csv
+│   │   └── returns_data.csv
 │
-├── dashboard
+├── 02-dashboard
 │   └── sales_dashboard.pbix
 │
-├── images
+├── 03-images
 │   └── dashboard_preview.png
 │
 └── README.md
-```
 
 ---
 
