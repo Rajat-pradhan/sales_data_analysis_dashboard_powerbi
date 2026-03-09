@@ -88,6 +88,7 @@ Users can filter by **region, category, and time period**.
 ---
 
 # Project Structure
+```
 sales-analysis-project
 │
 ├── 01-data
@@ -110,7 +111,7 @@ sales-analysis-project
 │   └── dashboard_preview.png
 │
 └── README.md
-
+```
 ---
 
 # How to Use
