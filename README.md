@@ -131,6 +131,7 @@ sales-analysis-project
 # Author
 - Rajat Pradhan
 - email: rajat20pradhan@gmail.com
+- linkedin: www.linkedin.com/in/rajat-pradhan-87b5723b6
 - **Data Analyst Portfolio Project**
 
 ⭐ If you found this project useful, please consider starring the repository.
